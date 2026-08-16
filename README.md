@@ -43,3 +43,6 @@
 > 🛑 **ملاحظة المطور:** المطور لا يرى أي شخص غير محترم.
 
 **© 2026 Nova System**
+
+<img width="1366" height="878" alt="لقطة شاشة 2026-08-16 160854" src="https://github.com/user-attachments/assets/6c124121-93aa-457d-9302-a264c6de98d7" />
+
