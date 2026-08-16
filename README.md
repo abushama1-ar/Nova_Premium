@@ -30,9 +30,9 @@
   <a href="https://discord.gg/REenS3jB72">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Itch.io-Coming%20Soon-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
-  </a>
+<a href="https://ar-dev-studio.itch.io/nova-system">
+  <img src="https://img.shields.io/badge/Itch.io-Available-22C55E?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
+</a>
   <a href="https://paypal.me/Alaaabushamaa">
     <img src="https://img.shields.io/badge/PayPal-Support%20Developer-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
